@@ -1,2 +1,5 @@
-# Game-Hub
-Clone rawg.io
+# GameHub
+
+Game
+
+![rawg ](Game-Hub.png)
